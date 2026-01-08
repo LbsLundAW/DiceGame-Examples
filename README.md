@@ -8,15 +8,13 @@
 
 flowchart TD
 
-&nbsp;	A(\[Start])
+&nbsp;	A-->B\["Event 1"]
 
-&nbsp;	A --> B\[Event 1]
+&nbsp;	Start-->Event2
 
-&nbsp;	A --> C
+&nbsp;	B-->End\[End 1]
 
-&nbsp;	B --> D\[End 1]
-
-&nbsp;	C --> D
+&nbsp;	Event2-->End
 
 ```
 
