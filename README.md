@@ -8,11 +8,11 @@
 
 flowchart TD;
 
-&nbsp;	Start-->A\[Event 1];
+&nbsp;	Start-->B\["Event 1"];
 
 &nbsp;	Start-->Event2;
 
-&nbsp;	A-->End;
+&nbsp;	B-->End\[End 1];
 
 &nbsp;	Event2-->End;
 
