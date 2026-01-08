@@ -12,7 +12,7 @@ graph TD;
 
 &nbsp;	B\[Event 1]
 
-&nbsp;	A--B
+&nbsp;	A-->B
 
 ```
 
