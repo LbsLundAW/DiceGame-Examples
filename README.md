@@ -8,13 +8,13 @@
 
 graph TD;
 
-&nbsp;	Start-->Event\_1;
+&nbsp;	Start-->EventOne;
 
-&nbsp;	Start-->Event\_2;
+&nbsp;	Start-->EventTwo;
 
-&nbsp;	Event1-->End;
+&nbsp;	EventOne-->End;
 
-&nbsp;	Event2-->End;
+&nbsp;	EventTwo-->End;
 
 ```
 
