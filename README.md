@@ -8,7 +8,7 @@
 
 flowchart TD;
 
-&nbsp;	Start-->Event1;
+&nbsp;	Start-->Event1\[Event 1];
 
 &nbsp;	Start-->Event2;
 
