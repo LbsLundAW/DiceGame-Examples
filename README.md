@@ -12,11 +12,11 @@ flowchart TD
 
 &nbsp;	A-->B\[Event 1]
 
-&nbsp;	A-->C
+&nbsp;	A-->C\[Event 1]
 
-&nbsp;	B\[Event 1]-->D
+&nbsp;	B\[Event 1]-->D\[End]
 
-&nbsp;	C-->D
+&nbsp;	C-->D\[End]
 
 ```
 
