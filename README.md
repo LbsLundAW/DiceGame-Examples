@@ -8,6 +8,8 @@
 
 flowchart TD
 
+&nbsp;	A\[Start]
+
 &nbsp;	A-->B\[Event 1]
 
 &nbsp;	A-->C
