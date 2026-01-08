@@ -12,7 +12,7 @@ flowchart TD;
 
 &nbsp;	Start-->Event2;
 
-&nbsp;	Event1-->End;
+&nbsp;	Event1\[Event 1]-->End;
 
 &nbsp;	Event2-->End;
 
