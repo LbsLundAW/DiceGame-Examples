@@ -10,13 +10,13 @@ flowchart TD
 
 &nbsp;	A(\[Start])
 
-&nbsp;	A-->B\[Event 1]
+&nbsp;	A --> B\[Event 1]
 
-&nbsp;	A-->C
+&nbsp;	A --> C\[Event 2]
 
-&nbsp;	B-->D\[End 1]
+&nbsp;	B --> D\[End 1]
 
-&nbsp;	C-->D
+&nbsp;	C --> D\[End 1]
 
 ```
 
