@@ -6,7 +6,7 @@
 
 ```mermaid
 
-flowchart TD
+graph TD
 
 &nbsp;	A\[Start]
 
