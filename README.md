@@ -8,9 +8,7 @@
 
 graph TD;
 
-&nbsp;	A\[Start]
-
-&nbsp;	B\[Event 1]
+&nbsp;	A\[Start]-->B\[Event 1]
 
 &nbsp;	A\[Start]-->C\[Event 2]
 
