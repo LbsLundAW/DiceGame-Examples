@@ -10,9 +10,9 @@ flowchart TD
 
 &nbsp;	A\["Start"]
 
-&nbsp;	A-->B\[Hej]
+&nbsp;	-->B\[Hej]
 
-&nbsp;	A-->C\[Test]
+&nbsp;	-->C\[Test]
 
 ```
 
