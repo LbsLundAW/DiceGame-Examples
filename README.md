@@ -4,17 +4,19 @@
 
 
 
-
+```mermaid
 
 flowchart TD
 
-&nbsp;   B\["fa:fa-twitter for peace"]
+&nbsp;	A\[Start]
 
-&nbsp;   B-->C\[fa:fa-ban forbidden]
+&nbsp;	A-->B\[Event 1]
 
-&nbsp;   B-->D(fa:fa-spinner)
+&nbsp;	A-->C\[Event 1]
 
-&nbsp;   B-->E(A fa:fa-camera-retro perhaps?)
+&nbsp;	B\[Event 1]-->D\[End]
 
+&nbsp;	C-->D
 
+```
 
