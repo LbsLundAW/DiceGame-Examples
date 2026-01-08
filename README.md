@@ -8,13 +8,11 @@
 
 graph TD;
 
-&nbsp;	A\[Start]-->B\[Event 1]
+&nbsp;	A\[Start]
 
-&nbsp;	A\[Start]-->C\[Event 2]
+&nbsp;	B\[Event 1]
 
-&nbsp;	B\[Event 1]-->D\[End]
-
-&nbsp;	C\[Event 2]-->D\[End]
+&nbsp;	A--B
 
 ```
 
