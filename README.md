@@ -4,7 +4,7 @@
 
 
 
-```mermaid
+
 
 flowchart TD
 
@@ -16,5 +16,5 @@ flowchart TD
 
 &nbsp;   B-->E(A fa:fa-camera-retro perhaps?)
 
-```
+
 
