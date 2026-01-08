@@ -6,17 +6,15 @@
 
 ```mermaid
 
-flowchart TD
+graph TD;
 
-&nbsp;   A(\[Start])
+&nbsp;   A-->B;
 
-&nbsp;   --> B\[Task 1]
+&nbsp;   A-->C;
 
-&nbsp;   --> C\[Task 2]
+&nbsp;   B-->D;
 
-&nbsp;   --> D(\[End])
+&nbsp;   C-->D;
 
 ```
-
-
 
