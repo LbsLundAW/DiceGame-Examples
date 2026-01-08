@@ -12,7 +12,7 @@ flowchart TD
 
 &nbsp;	A-->C
 
-&nbsp;	B-->D
+&nbsp;	B\["Event 1"]-->D
 
 &nbsp;	C-->D
 
