@@ -12,7 +12,11 @@ graph TD;
 
 &nbsp;	B\[Event 1]
 
-&nbsp;	A-->B
+&nbsp;	A\[Start]-->C\[Event 2]
+
+&nbsp;	B\[Event 1]-->D\[End]
+
+&nbsp;	C\[Event 2]-->D\[End]
 
 ```
 
