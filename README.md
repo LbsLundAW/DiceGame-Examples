@@ -6,11 +6,11 @@
 
 ```mermaid
 
-graph TD
+graph TD;
 
 &nbsp;	A\[Start]-->B\[Event 1]
 
-&nbsp;	A\[Start]-->C\[Event 2]
+&nbsp;	A-->C\[Event 2]
 
 &nbsp;	B\[Event 1]-->D\[End]
 
