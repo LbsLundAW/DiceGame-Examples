@@ -8,9 +8,9 @@
 
 graph TD;
 
-&nbsp;	Start-->Event 1;
+&nbsp;	Start-->Event\_1;
 
-&nbsp;	Start-->Event 2;
+&nbsp;	Start-->Event\_2;
 
 &nbsp;	Event1-->End;
 
