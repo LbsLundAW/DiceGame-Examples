@@ -6,15 +6,15 @@
 
 ```mermaid
 
-graph TD;
+flowchart TD;
 
-&nbsp;	Start-->EventOne;
+&nbsp;	Start-->Event1;
 
-&nbsp;	Start-->EventTwo;
+&nbsp;	Start-->Event2;
 
-&nbsp;	EventOne-->End;
+&nbsp;	Event1-->End;
 
-&nbsp;	EventTwo-->End;
+&nbsp;	Event2-->End;
 
 ```
 
