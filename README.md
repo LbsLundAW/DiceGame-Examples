@@ -8,13 +8,13 @@
 
 graph TD;
 
-&nbsp;   A-->B;
+&nbsp;	A-->B;
 
-&nbsp;   A-->C;
+&nbsp;	A-->C;
 
-&nbsp;   B-->D;
+&nbsp;	B-->D;
 
-&nbsp;   C-->D;
+&nbsp;	C-->D;
 
 ```
 
