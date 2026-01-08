@@ -8,11 +8,13 @@
 
 flowchart TD
 
-&nbsp;	A\["Start"]
+&nbsp;   B\["fa:fa-twitter for peace"]
 
-&nbsp;	-->B\[Hej]
+&nbsp;   B-->C\[fa:fa-ban forbidden]
 
-&nbsp;	-->C\[Test]
+&nbsp;   B-->D(fa:fa-spinner)
+
+&nbsp;   B-->E(A fa:fa-camera-retro perhaps?)
 
 ```
 
