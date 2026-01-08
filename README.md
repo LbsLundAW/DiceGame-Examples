@@ -16,7 +16,7 @@ flowchart TD
 
 &nbsp;	B --> D\[End 1]
 
-&nbsp;	C --> D\[End 1]
+&nbsp;	C --> D
 
 ```
 
