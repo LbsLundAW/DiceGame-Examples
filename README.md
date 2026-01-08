@@ -8,11 +8,11 @@
 
 flowchart TD
 
-&nbsp;	A-->B\["Event 1"]
+&nbsp;	A-->B\[Event 1]
 
 &nbsp;	A-->C
 
-&nbsp;	B\["Event 1"]-->D
+&nbsp;	B\[Event 1]-->D
 
 &nbsp;	C-->D
 
