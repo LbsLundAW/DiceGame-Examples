@@ -1,20 +1,11 @@
 # Dice Game
 
-
-
-
-
 ```mermaid
-
-graph TD;
-
-&nbsp;	A\[Start]-->B\[Event 1]
-
-&nbsp;	A\[Start]-->C\[Event 2]
-
-&nbsp;	B\[Event 1]-->D\[End]
-
-&nbsp;	C\[Event 2]-->D\[End]
+graph TD
+A[Start]-->B[Event 1]
+A[Start]-->C[Event 2]
+B[Event 1]-->D[End]
+C[Event 2]-->D[End]
 
 ```
 
